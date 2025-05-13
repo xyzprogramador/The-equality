@@ -1,1 +1,2 @@
 # The-equality
+Simples terminal
